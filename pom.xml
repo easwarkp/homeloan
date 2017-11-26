@@ -13,7 +13,10 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-<!-- This is a comment -->
+<!-- This is a comment updated once again 
+more comments
+
+-->
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
